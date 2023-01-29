@@ -34,13 +34,15 @@ The analysis of the election show that:
 
     # County with Largest Number of Votes:
     - Denver county has the largest number of votes iwth 306, 055.
-    - Denver county is the LArgest County Turnout
+    - Denver county is the largest County Turnout
 
     # Election Results:
     - Diana DeGette won the election, with a total of 272, 892 votes.
     - Diana DeGette is the Winner!
 
+    ![Alt text](Resources/Election%20Results.PNG)
+
 ## Challenge Overview
-A challenge that I ran into while doing this analysis was getting my code to run for the county data. It kept saying that the files does not exist for percentage, but I could run it in pieces, but altogether I was having a hard time figuring out why it is not showing in the output. This is why percentage is missing. I also had this data at one point and in the midst of editing, the code wouldn't run anymore and I couldn't fiugre out what I was doing wrong. 
+My biggest challenge with this analysis was learning how to manage the little things such as indentation in python. Another challenge I had was getting my results from the terminal to match the results in my text file. The biggest thing that I learned was that the little things make the most difference. 
 ## Challenge Summary
 Overall, this analysis was fun and challenging. This can be used for any election when you want to figure out the total number of candidates and votes for each candidate. It is also good for when you want to break up the different counties or cities that each candidate received votes from. This way it would be easy for the candidate to know where their biggest supporters are located.
